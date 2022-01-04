@@ -2,17 +2,16 @@
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 500px;
+    width: 300px;
     border-radius: 40px;
   }
 
-  body{
+body{
       background-color: rgb(27,12,44);
       color: white;
       text-align: center;
     }
 
 h1{
-    font-family: cursive;
-    
+    font-family: "Brush Script MT", cursive; 
 }
